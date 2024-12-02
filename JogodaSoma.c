@@ -141,12 +141,12 @@ int main()
 int menu()
 {
     int opcao;
-    printf("========       Trabalho Jogo da Soma     ==========\n");
-    printf("========   Bianca Sabka e Magnum Abreu     ========\n");
-    printf("=== 1 - Iniciar Jogo                       ========\n");
-    printf("=== 2 - Regras do Jogo                     ========\n");
-    printf("=== 3 - Sair                               ========\n");
-    printf("===================================================\n");
+    printf("==========             Trabalho Jogo da Soma               ==========\n");
+    printf("========   Bianca Sabka, Magnum Abreu e Eduardo Guimaraes    ========\n");
+    printf("=== 1 - Iniciar Jogo                                         ========\n");
+    printf("=== 2 - Regras do Jogo                                       ========\n");
+    printf("=== 3 - Sair                                                 ========\n");
+    printf("=====================================================================\n");
     printf("Escolha uma opcao: ");
     scanf("%d", &opcao);
     return opcao;
