@@ -52,8 +52,8 @@ int main()
         }
         else if (opcao == 3)
         {
-            printf("Ah,que pena...\n");
-            system("cls");
+            printf("Ah, que pena...\n");
+            
         }
         else
         {
