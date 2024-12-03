@@ -290,6 +290,6 @@ int vencedor(int somaLinhas[6], int somaColunas[6])
     }
 
     // terminamos aqui nosso código, fazendo as comparações necessarias para determinar o vencedor.
-    // Vlw, prof!!! Um beijo da Bianca e do Magnum, hehhee! 
+    // Vlw, prof!!! Um beijo da Bianca, Magnum e Ed Guma, hehhee! 
     return 0;
 }
