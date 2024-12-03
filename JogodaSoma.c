@@ -20,7 +20,7 @@ int vencedor(int somaLinhas[6], int somaColunas[6]);
 
 
 
-// Agora vamos explicar cada vari[avel, prof
+// Agora vamos explicar cada variavel e funcao, prof
 // menu: mostra as opções do jogo (Iniciar, Regras, Sair)
 // regras: explica como jogar
 // exibirTabuleiro: mostra o tabuleiro e as somas
