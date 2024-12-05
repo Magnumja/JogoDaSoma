@@ -20,7 +20,7 @@ int vencedor(int somaLinhas[6], int somaColunas[6]);
 
 
 
-// Agora vamos explicar cada variavel e funcao, prof
+// Agora vamos explicar cada variavel e funcao
 // menu: mostra as opções do jogo (Iniciar, Regras, Sair)
 // regras: explica como jogar
 // exibirTabuleiro: mostra o tabuleiro e as somas
@@ -290,6 +290,6 @@ int vencedor(int somaLinhas[6], int somaColunas[6])
     }
 
     // terminamos aqui nosso código, fazendo as comparações necessarias para determinar o vencedor.
-    // Vlw, prof!!! Um beijo da Bianca, Magnum e Ed Guma, hehhee! 
+     
     return 0;
 }
